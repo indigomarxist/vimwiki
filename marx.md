@@ -1,0 +1,2 @@
+### marx
+  * [marxism](marxism)
